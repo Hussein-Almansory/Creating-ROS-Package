@@ -38,6 +38,8 @@ this link:
 ***
 ## 5: Run the urdf and move the robot
 
+PATH: ~\robot_arm\robot_arm_pkg\launch
+
 ### **Open the check_motors.launch**
 
 ![5](https://user-images.githubusercontent.com/65435678/183786067-0f19be32-752f-469b-8038-6c9db84e52ad.png)
