@@ -2,7 +2,10 @@
 
 ___
 
-## 1: Download **stl** files from my GitHub
+## 1: Download **stl** files:
+
+This is the link to download stl files: https://drive.google.com/drive/folders/18E0vgwkuOhObBcaOVkfFNj-FnycijkbE
+
 
 ![1](https://user-images.githubusercontent.com/65435678/183786062-8acfde6f-008c-40d2-bf56-def9ee730936.png)
 ***
